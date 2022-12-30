@@ -23,6 +23,9 @@ Pico SDX is a RP2040 based HF Transceiver.
 
 - [Dan Tayloe](https://www.norcalqrp.org/files/Tayloe_mixer_x3a.pdf) brief description of the operation of quadratur mixers
 - Gerald Youngbloods QEX articles [1](https://www.arrl.org/files/file/Technology/tis/info/pdf/020708qex013.pdf), [2](https://www.arrl.org/files/file/Technology/tis/info/pdf/020910qex010.pdf), [3](https://www.arrl.org/files/file/Technology/tis/info/pdf/021112qex027.pdf) and [4](http://www.arrl.org/files/file/Technology/tis/info/pdf/030304qex020.pdf) very good, detailed and comprehensive description of SDR projects for ham radio operators and additional [ARRL SDR](http://www.arrl.org/software-defined-radio) resources
+- Walla Walla University projects: [Paper](http://fweb.wallawalla.edu/~frohro/ClassHandouts/Electronics/A%20Comparison%20of%20Affordable,%20Self-Assembled%20%20Software-Defined%20Radio%20Receivers%20Using%20Quadrature%20Sampling%20Down-Conversion.pdf), [Talk](https://www.youtube.com/watch?v=UoL1Qzaw2H0&t=217s),[Jordyn Watkins Wiki](https://github.com/greenjacketgirl/SDR_Receiver/wiki), [Caleb Froelichs Wiki](https://github.com/froeca/Software-Defined-Radio/), [Konrad MacClure](https://github.com/KonradMcClure/SDR_Receiver) and [SMD Version by Caleb Nelson](https://github.com/Dizzerin/Software-Defined-Radio)with detailed explanations, simulations, design decisions and tests
 - [Burkhard Kainkas](https://www.b-kainka.de/iqrx.htm) experiments with iq mixers
 - [devttys0](https://www.youtube.com/watch?v=JuuKF1RFvBM) video on explanations of the function of the tayloe mixer
 - [w2aew](https://www.youtube.com/watch?v=Mm7WfVzr1ao) video on RF-mixer basics
+- [BPF design for HF-Tranceiver](https://www.arrl.org/files/file/Technology/tis/info/pdf/8809017.pdf)
+- [devttys0](https://www.youtube.com/watch?v=1sq8Cvju2Oo) video on practical filter design and construction
